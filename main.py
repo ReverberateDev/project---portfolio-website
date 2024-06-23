@@ -5,7 +5,7 @@ from gevent.pywsgi import WSGIServer
 import os
 
 if os.name != "nt":
-    os.chdir(os.path.dirname(_file_))
+    os.chdir(os.path.dirname(__file__))
 
 app = Flask(__name__, template_folder="templates")
 
