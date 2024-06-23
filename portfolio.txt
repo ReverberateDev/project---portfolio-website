@@ -113,7 +113,7 @@ https://github.com/ReverberateCoding/project---competitive-programming-tracker
 
 Project
 Flower Shop Website
-This project is a flower shop website with a basket system to buy bouquets of flower, this was a passion project for my mom’s mother’s day present
+This project is a flower shop website with a basket system to buy bouquets of flower, this was a passion project for my mother’s mother’s day present
 https://github.com/ReverberateCoding/project---flower-shop-website 
 
 Project
@@ -139,6 +139,6 @@ https://github.com/ReverberateCoding/Competition---NRC_Cospace_Rescue_2023
 Project
 Portfolio Website
 This is the same portfolio website you're using to view this!
-
+https://github.com/ReverberateCoding/project---portfolio
 
 sigma
