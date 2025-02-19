@@ -14,6 +14,6 @@ def index():
     return render_template('index.html', portfolio = portfolio())
 
 if __name__ == "__main__":
-    http_server = WSGIServer(("0.0.0.0", 2003), app)
-    http_server.serve_forever()
-    #app.run(host="0.0.0.0", debug=True)
+    #http_server = WSGIServer(("0.0.0.0", 2003), app)
+    #http_server.serve_forever()
+    app.run()
