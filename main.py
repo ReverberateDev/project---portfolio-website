@@ -1,7 +1,6 @@
 from flask import Flask, render_template
 from models import portfolio
 #Server imports
-from gevent.pywsgi import WSGIServer
 import os
 
 if os.name != "nt":
