@@ -20,7 +20,7 @@ class portfolioItem:
 class portfolio:
     def __init__(self):
         self.portfolioItems = list()
-        with open('data\portfolio.txt', 'r') as portfolio:
+        with open('data/portfolio.txt', 'r') as portfolio:
             lines = portfolio.readlines()
             currentPortfolioItemLines = list()
             for line in lines:
